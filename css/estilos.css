@@ -1,0 +1,58 @@
+.inicio{
+    position: relative;
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto; 
+}
+
+.colores {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color1 {
+    background-color:pink; 
+    width: 80vw;
+    height: 80vh;
+}
+
+.color2 {
+    background-color: rebeccapurple;
+    width: 70vw;
+    height: 70vh;
+}
+
+.color3 {
+    background-color: goldenrod; 
+    width: 60vw;
+    height: 60vh;
+}
+
+.color4 {
+    background-color: azure; 
+    width: 50vw;
+    height: 50vh;
+}
+
+.color5 {
+    background-color: black; 
+    width: 40vw;
+    height: 40vh;
+}
+
+.color6 {
+    background-color:red; 
+    width: 30vw;
+    height: 30vh;
+}
+
+.color7 {
+    background-color: forestgreen; 
+    width: 20vw;
+    height: 20vh;
+}
